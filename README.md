@@ -1,7 +1,6 @@
 # LinksGenerator 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/vinayakbaranwal12/LinksGenerator?style=for-the-badge" alt="Repository Size" />
   <img src="https://img.shields.io/github/license/vinayakbaranwal12/LinksGenerator?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/github/last-commit/vinayakbaranwal12/LinksGenerator?style=for-the-badge" alt="Last Commit" />
 </p>
