@@ -50,16 +50,14 @@ If you like our project and want to support us, you can donate through the follo
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40vinayakb69-blue)](https://twitter.com/vinayakb69)
 [![Email](https://img.shields.io/badge/Email-vinayakbaranwal12%40gmail.com-red)](mailto:vinayakbaranwal12@gmail.com)
-[![PayPal](https://img.shields.io/badge/PayPal-vinayakbaranwal98%40gmail.com-blue)](https://www.paypal.com/vinayakbaranwal98@gmail,com)
-[![PayPal.me](https://img.shields.io/badge/PayPal.me-baranwalvinayak-blue)](https://www.paypal.me/baranwalvinayak)
+[![PayPal](https://img.shields.io/badge/PayPal-baranwalvinayak-blue)](https://www.paypal.me/baranwalvinayak)
 [![UPI](https://img.shields.io/badge/UPI-mark85%40airtel-red)]()
 
 
 
 [twitter]: https://twitter.com/vinayakb69
 [email]: mailto:vinayakbaranwal12@gmail.com
-[paypal]: https://www.paypal.com/vinayakbaranwal98@gmail,com
-[paypal-me]: https://www.paypal.me/baranwalvinayak
+[paypal]: https://www.paypal.me/baranwalvinayak
 [upi]: upi://mark85@airtel
 
 
