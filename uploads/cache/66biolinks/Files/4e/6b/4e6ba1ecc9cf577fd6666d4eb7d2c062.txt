@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:11:"index_stats";s:1:"d";a:5:{s:11:"total_links";s:1:"1";s:14:"total_qr_codes";i:0;s:17:"total_track_links";s:1:"1";s:15:"total_documents";N;s:12:"total_images";N;}s:1:"g";a:0:{}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2023-05-04 03:45:26.313715";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}s:1:"m";N;s:1:"c";N;}
